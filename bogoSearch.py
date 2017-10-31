@@ -9,8 +9,8 @@ secure_random = random.SystemRandom()
 #number of tries and attempt time to find element
 def bogoSearch (listOfElements, element, timeout = 0, noOfTries = 0):
   count = 0;
+  start_time = time.time()
   while(True):
-    start_time = time.time()
     count = count + 1;
     selectedIndex = secure_random.choice(range(len(listOfElements)));
     if(listOfElements[selectedIndex] == element):
