@@ -13,7 +13,8 @@ def bogoSearch (listOfElements, element, timeout = 0, noOfTries = 0):
   while(True):
     count = count + 1;
     selectedIndex = secure_random.choice(range(len(listOfElements)));
-    if(listOfElements[selectedIndex] == element):
+    selectedElement = listOfElements[selectedIndex];
+    if(selectedElement == element):
       elapsed_time = time.time() - start_time;
       print("ELEMENT HAS BEEN FOUND AT POSITION: " + str(selectedIndex));
       print("NUMBER OF TRIES TAKEN TO FIND ELEMENT: " + str(count));
