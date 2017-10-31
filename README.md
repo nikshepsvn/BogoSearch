@@ -10,4 +10,4 @@ Search Algorithm inspired by the infamous BogoSort
 * IF FALSE - Repeat from first step
 
 <img src = "https://i.imgur.com/MwGHU6a.png" style="min-width:100%; min-height:100%" />
-<p style = "text-align:center;">BogoSort Running</p>
+<p style = "text-align:centre;">BogoSort Running</p>
