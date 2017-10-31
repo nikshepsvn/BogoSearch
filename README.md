@@ -1,5 +1,5 @@
-# BogoSearch
-Search Algorithm inspired by the infamous BogoSort
+<h1 align="center">BogoSearch </h1>
+<p align="center">Search Algorithm inspired by the infamous BogoSort</p>
 
 # Way it works
 
