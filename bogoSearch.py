@@ -22,6 +22,6 @@ def bogoSearch (listOfElements, element, timeout = 0, noOfTries = 0):
 
 if __name__ == "__main__":
   #example
-  listTemplate = ["test", "test123"];
-  templateElement = "test";
+  listTemplate = ['Amazon','Chalk','Salesforce','BaazarVoice','Shippo','Twilio','LinkedIn','Twitter','Toast','Yelp ','Facebook','Google','Stripe','Airbnb','Apple','Redbooth','Addepar','Appian','Blend','Bloomberg','Capital One','DataDog','Dropbox','Fidelty','Couple','Galois','Goldman Sachs','GumGum','Intel','IMC','IXL Learning','Karat','Jane Street','Kayak','Khan Academy','Lucid','LiveRamp','Microsoft','Nvidia','AMD','OpenAI','Qualatrics','Roblox','Shogun Enterprises','SpaceX','Yahoo','Yelp ','WhatsApp','Walmart Labs','Yext','Two Sigma','Asana','BrainTree','Box','ShutterFly','Docker','Ebay','Figma','Evernote','Fitbit','Github','Frog','Houzz','JawBone','Lyft','Logitech','Medium','Lytx','Mozilla','Next','Paypal','Playstation','Quizlet','Quora','Ripple','Riot Games','Slack ','Square','Snap','Thumbstack','Twitch','HealthIQ','Milliman','PagerDuty','Coinbase','Optimizely','Uber','Pintrest','Spotify','Magic Leap','Unity','Zenefits','Sprinklr','MongoDB','RobinHood','Blizzard'];
+  templateElement = "Coinbase";
   bogoSearch (listTemplate, templateElement);
