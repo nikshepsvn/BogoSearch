@@ -9,5 +9,5 @@ Search Algorithm inspired by the infamous BogoSort
 * IF TRUE - Return position of element and additional data
 * IF FALSE - Repeat from first step
 
-<center><img src = "https://i.imgur.com/MwGHU6a.png" style="min-width:100%; min-height:100%" /> </center>
-<center>BogoSort Running</center>
+<img src = "https://i.imgur.com/MwGHU6a.png" style="min-width:100%; min-height:100%" />
+<p style = "text-align:center;">BogoSort Running</p>
