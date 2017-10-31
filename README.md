@@ -6,7 +6,7 @@
 
 ## Way it works
 * Select a random number (let's call it x) between 0 and len of list
-* Get element at position x in the list
-* Check if element we are searching for is equal to x
+* Get element at position x in the list (let's call it k)
+* Check if element we are searching for is equal to k
 * IF TRUE - Return position of element and additional data
 * IF FALSE - Repeat from first step
